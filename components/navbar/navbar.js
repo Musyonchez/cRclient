@@ -1,6 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import './globals.css';
 // import LogoImage from './images/.'; // Assuming logoimage is an image file path
 import { WrappedAuthComponent } from "@/components/auth/AuthComponent";
 
